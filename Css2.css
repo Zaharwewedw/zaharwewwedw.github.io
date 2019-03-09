@@ -1,0 +1,90 @@
+*{
+  padding: 0;
+  margin: 0:
+}
+li{
+  list-style: none;
+  display: flex;
+  text-align: 30px;
+}
+a{
+  text-decoration: none;
+}
+img{
+width: 220px
+}
+header{
+  background:#000;
+  padding:10px 0;
+}
+.header-container{
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.header-container a{
+  color:#ffff;
+  font-size: 20px;
+  margin-right: 90px;
+  padding: 40px 6px;
+}
+.header-container .main-menu a:hover{
+  background: #696969;
+}
+#menu-checkbox{
+  display: none;
+}
+ul{
+  display: flex;
+}
+nav{
+  margin-top: 20px;
+}
+.top-muzic{
+  display:grid;
+  padding: 100px 100px;
+  background: url(Cartinci/CpOajB.jpg);
+  text-align: center;
+  color: red;
+
+
+}
+.audio1{
+  display: flex;
+  margin-right: 30px
+}
+.audio2{
+  display: flex;
+}
+.audio3{
+  display: flex;
+}
+.audio4{
+  display: flex;
+}
+.top-slid{
+  background: url(Cartinci/grunge-background-1463561668zRl.jpg);
+  color: red;
+  text-align: center;
+  padding: 10px;
+  font-size: 40px
+}
+footer{
+  background: #4d4d4d;
+  padding: 30px 0;
+}
+.footer-container{
+  width: 90%;
+  margin: 0 auto;
+  color: #fff;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.tweets img{
+  width: 50px;
+}
+.pocupca{
+  margin-top: 30px;
+  padding: 30px 10px;
+}
